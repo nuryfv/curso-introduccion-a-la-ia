@@ -4,7 +4,7 @@ Curso electivo · Ingeniería de Software (modalidad virtual) · Universidad de 
 
 Este repositorio contiene **todo el material del curso**. El curso dura 8 semanas y es 100 % autogestionado: cada semana estudias por tu cuenta el material de la carpeta correspondiente y asistes a una sesión sincrónica para resolver dudas. Cada dos semanas entregas una Actividad Evaluativa en el Equipo de Microsoft Teams.
 
-- 📄 [Syllabus del curso](https://docs.google.com/document/d/1Hg06BDRtDfvxs4-LOOz1xhe5_8hSoOS0j0KMZoXX7qc/edit)
+- 📄 [Syllabus del curso](syllabus)
 - 💬 Equipo de Microsoft Teams: *[enlace por definir]*
 
 ## Cronograma
