@@ -1,0 +1,15 @@
+cielo,temperatura,humedad,viento,juega
+soleado,calurosa,alta,débil,no
+soleado,calurosa,alta,fuerte,no
+nublado,calurosa,alta,débil,sí
+lluvioso,templada,alta,débil,sí
+lluvioso,fresca,normal,débil,sí
+lluvioso,fresca,normal,fuerte,no
+nublado,fresca,normal,fuerte,sí
+soleado,templada,alta,débil,no
+soleado,fresca,normal,débil,sí
+lluvioso,templada,normal,débil,sí
+soleado,templada,normal,fuerte,sí
+nublado,templada,alta,fuerte,sí
+nublado,calurosa,normal,débil,sí
+lluvioso,templada,alta,fuerte,no
