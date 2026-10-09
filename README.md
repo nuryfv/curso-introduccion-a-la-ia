@@ -2,10 +2,10 @@
 
 Curso electivo · Ingeniería de Software (modalidad virtual) · Universidad de Santander (UDES)
 
-Docente: 
+### Docente: 
 Msc Nury Farelo Velásquez
-Email: nu.farelo@mail.udes.edu.co
-Whatsapp: 3005208181
+- Email: nu.farelo@mail.udes.edu.co
+- Whatsapp: 3005208181
 
 Este repositorio contiene **todo el material del curso**. El curso dura 8 semanas y es 100 % autogestionado: cada semana estudias por tu cuenta el material de la carpeta correspondiente y asistes a una sesión sincrónica para resolver dudas. Cada dos semanas entregas una Actividad Evaluativa en el Equipo de Microsoft Teams.
 
